@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+.DS_Store
+node_modules
+*.swp
+/etc/
+.env
